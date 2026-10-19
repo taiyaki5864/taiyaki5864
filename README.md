@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>你好，我是 椎名芽依 👋</h1>
+  <h1>你好，我是 椎名 👋</h1>
   <p><strong>Roblox / Luau Developer</strong></p>
   <p>专注于 Roblox 游戏系统与开发者工具</p>
   <p>
