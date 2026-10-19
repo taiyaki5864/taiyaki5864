@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Luau-2C2D72?logo=lua&logoColor=white" alt="Luau" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/Ollama-111111?logo=ollama&logoColor=white" alt="Ollama" />
   </p>
 </div>
 
@@ -18,7 +17,6 @@
 - 🎮 使用 Roblox Studio 和 Luau 开发游戏
 - 🧩 设计 Tycoon 游戏系统与可复用的服务端模块
 - 📚 为 Luau Language Server 整理 Roblox API 中文悬停文档
-- 🛠️ 探索本地模型在翻译与开发工具中的应用
 
 ### 🚀 正在做 | Current Focus
 
@@ -29,7 +27,7 @@
 
 ### 🧰 技术栈 | Tech Stack
 
-**Roblox** · **Luau** · **Python** · **VS Code** · **Ollama**
+**Roblox** · **Luau** · **Python** · **VS Code**
 
 ---
 
